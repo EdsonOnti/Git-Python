@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 #Top 10 productos mas vendidos
 
-conn=sqlite3.connect('db_northwind.db')
+conn=sqlite3.connect('Base_datos.db')
 
 querry=('''
     SELECT ProductName, SUM(Price * Quantity) AS Revanue
