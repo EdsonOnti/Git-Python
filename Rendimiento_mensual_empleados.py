@@ -38,6 +38,9 @@ plt.legend(loc='upper left')
 # Mostramos el gráfico
 plt.show()
 
+![Plot All_employees_performans](https://github.com/EdsonOnti/Simulacion_manejo_data/blob/main/All_employees_performans.png)
+
+
 
 
     
